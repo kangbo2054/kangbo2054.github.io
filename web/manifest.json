@@ -1,6 +1,6 @@
 {
-    "name": "web_for_app",
-    "short_name": "web_for_app",
+    "name": "xyz_app_web",
+    "short_name": "xyz_app_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
